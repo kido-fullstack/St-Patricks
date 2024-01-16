@@ -415,3 +415,9 @@ color: #fff;
 }
 }
  
+.bat{
+    padding: 1% 3%;
+    border-radius:10px;
+    border-color: transparent;
+    box-shadow: none;
+}
